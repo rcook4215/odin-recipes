@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be a "brutalist" HTML web design project, which will be styled with CSS later. I had started to write about wanting to get better with git, but linking back to the earlier project helped me remember the basic commands, and I had to re-clone the project due to placing it in the wrong spot earlier. 
